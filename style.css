@@ -1,0 +1,17 @@
+.mainbox{
+    height: 700px;
+    width: 800px;
+    background-color: aqua;
+}
+.subbox1{
+    height: 700px;
+    width: 300px;
+    background-color: black;
+    float: left;
+}
+.subbox5{
+    height: 700px;
+    width: 300px;
+    background-color: blueviolet;
+    float: left;
+}
